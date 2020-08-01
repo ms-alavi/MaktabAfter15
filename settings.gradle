@@ -1,0 +1,3 @@
+include ':TestJavaModuals'
+include ':app', ':HW4', ':HW', ':MaktabJalase16', ':MaktabJalase17', ':HW5', ':MaktabJalase19', ':HW6', ':Torob'
+rootProject.name='MaktabAfter15'
